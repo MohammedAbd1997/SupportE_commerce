@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Support_E_Commerce</string>
+    <string name="select_user">select user</string>
+    <string name="type_a_message">type a message</string>
+</resources>
